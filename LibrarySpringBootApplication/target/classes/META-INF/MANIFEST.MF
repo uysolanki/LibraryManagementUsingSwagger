@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Shardul Garade
+Build-Jdk: 17.0.10
+Implementation-Title: LibrarySpringBootApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.library
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LibrarySpringBootApplication
+Created-By: Maven Integration for Eclipse
+
